@@ -2,7 +2,7 @@
 # app.R — Universal GHG Gap-Filler
 # Shiny application for gap-filling any flux / soil dataset
 # with 7 ML models + optional TabPFN
-#
+# Developed by Saha Lab, University of Tennessee
 # Run:  shiny::runApp("GHGGapFiller/app.R")
 # =============================================================================
 
